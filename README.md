@@ -1,0 +1,2 @@
+# diamnco
+Website Diamnco
